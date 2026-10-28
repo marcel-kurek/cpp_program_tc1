@@ -1,4 +1,4 @@
-//C++ by marcel
+//C++ by marcel Najważniesze informacje 
 
 //Szkielet programu
 #include <iostream>   // wejście/wyjście (cout, cin)
@@ -6,7 +6,7 @@ using namespace std;  // żeby pisać cout zamiast std::cout
 
 int main() {
     // tu twój kod
-    return 0;
+    return 0;            //program po prawidołowym zakończeniu zwaraca 0 
 }
 //Wypisywanie i wczytywanie
 cout << "Hello" << endl;     // wypisz tekst i przejdź do nowej linii
